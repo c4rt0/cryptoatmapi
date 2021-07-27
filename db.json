@@ -1,0 +1,30 @@
+{
+  "atms": [
+    {
+      "id": 0,
+      "country": "Ireland",
+      "town": "Enniscorthy",
+      "postcode": "Y21W293",
+      "nameOfStore": "adamcoding.com",
+      "openingHours": "9:00-17:00",
+      "twoWay": true,
+      "coordinates": {
+        "Latitude": "52.498040",
+        "Longitude": "-6.566355"
+      }
+    },
+    {
+      "id": 1,
+      "country": "Ireland",
+      "town": "Waterford",
+      "postcode": "Y21W294",
+      "nameOfStore": "drinkstoomuch.coffee",
+      "openingHours": "9:00-17:00",
+      "twoWay": false,
+      "coordinates": {
+        "Latitude": "52.438040",
+        "Longitude": "-6.556355"
+      }
+    }
+  ]
+}
