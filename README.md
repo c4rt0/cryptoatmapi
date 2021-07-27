@@ -2,13 +2,14 @@
 
 * This is going to be a simple REST API which returns details
   of cryptocurrency atms located in Republic of Ireland.
-    * county
+    * id
+    * country
     * town
+    * postcode  
     * nameOfStore
     * openingHours
-    * locationDescription
     * twoWay
-    * Coordinates
+    * coordinates
         * Lat
         * Long
     
